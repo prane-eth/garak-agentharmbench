@@ -29,6 +29,7 @@ For a detailed oversight into how a probe operates, see :doc:`garak.probes.base`
    garak.probes.glitch
    garak.probes.goodside
    garak.probes.grandma
+   garak.probes.harmactionseval
    garak.probes.latentinjection
    garak.probes.leakreplay
    garak.probes.lmrc
